@@ -47,17 +47,7 @@ Ele reflete a prática da lógica de programação e serve como base sólida par
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Linguagem **C** (e alguns testes em **C++**)  
+- Linguagem **C** (e alguns testes em **C++**)
 - Compilador **DEV C++**  
 
 ---
-
-## 👨‍💻 Autor
-
-**Matheus Bilitardo Abib**  
-
----
-
-Este projeto está sob a licença MIT.  
-Você pode usar o código livremente para estudos e modificações.
-**
